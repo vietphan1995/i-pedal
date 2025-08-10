@@ -17,4 +17,4 @@ iPedal improves people activity in busy hands but need to exchange supported scr
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/iPedal-1b25e832d6ee8019b6f3fdcc10c1d987
+https://phantrungviet.notion.site/iPedal-1b25e832d6ee8019b6f3fdcc10c1d987
