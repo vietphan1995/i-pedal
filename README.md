@@ -1,6 +1,8 @@
-# iPedal
+# i-pedal
 
-# Introduction
+## iPedal
+
+### Introduction
 
 [https://github.com/vietphan1995/i-pedal.git](https://github.com/vietphan1995/i-pedal.git)
 
@@ -14,7 +16,7 @@ iPedal improves people activity in busy hands but need to exchange supported scr
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/iPedal-1b25e832d6ee8019b6f3fdcc10c1d987
+https://phantrungviet.notion.site/i-pedal-1b25e832d6ee8019b6f3fdcc10c1d987
